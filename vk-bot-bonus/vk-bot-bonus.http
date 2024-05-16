@@ -1,0 +1,6 @@
+@vk_bot_bonus_HostAddress = http://localhost:5003
+
+GET {{vk_bot_bonus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
